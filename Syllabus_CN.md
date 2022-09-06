@@ -40,18 +40,24 @@
 ### II 现代贝叶斯统计的内在工作机制（sampler）
 7: MCMC
 
-III Bayesian Workflow
+### III Bayesian Workflow
 8: LM + PyMC3
+
 9: 诊断
+
 10.比较
+
 11. 推断
 
-【总结】
-IV Applications
+### IV Applications
+
 12 GLM & more LM
+
 13: 层级模型 LMM （RT/调查数据）
+
 14: GLMM (信号检验论)
-15: 扩散（泛讲）
+
+15: 扩展（泛讲）
 
 
 中间：15 ～ 16次课（国庆节可能会放掉一次）
