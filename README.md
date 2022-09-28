@@ -2,7 +2,7 @@
 
 本仓库内容由胡传鹏、潘晚坷、刘逸康和郑元瑞共同完成。
 
-鼓励重复使用本仓库中的内容，但计遵守本仓库的版本协议。使用前最好联系胡传鹏教授，邮箱：hcp4715@hotmai.com
+我们鼓励重复使用本仓库中的内容，但需遵守本仓库的版本协议。使用前请联系胡传鹏教授，邮箱：hcp4715@hotmail.com
 
 This is a repo for teaching Bayesian analysis.
 

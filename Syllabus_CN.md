@@ -35,7 +35,7 @@
 * 条件概率 + 练习 + 代码
 * 概率分布 + 练习
 
-4～6：Likelihood, Prior （PPC）, Denominator, Posterior （PPC）[student’s Guide, Part II]
+4～6：Likelihood, Prior, Denominator, Posterior (PPC)[Student’s Guide, Part II]
 
 ### II 现代贝叶斯统计的内在工作机制（sampler）
 7: MCMC
