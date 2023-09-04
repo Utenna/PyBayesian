@@ -46,3 +46,7 @@ dmypy.json
 
 _build
 .idea/
+
+# MacOS files for offices
+.DS_Store
+*._*
