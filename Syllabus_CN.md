@@ -9,9 +9,10 @@
 ## 考核方式：
 考勤10%
 小作业：45%
-（1）
-（2）
-（3）
+（1）使用numpy与pandas进行基本的数据预处理
+（2）使用pymc对随机变量进行简单线性回归模型的建模
+（3）使用arviz进行统计推断
+
 大作业：45%
 	真实的数据分析（分工、完整度、呈现）
 
@@ -23,42 +24,63 @@
 
 ## 大纲
 ### Intro
-1：课程介绍（为什么要用贝叶斯/PyMC3，展示一个回归分析例子，课程安排）
+1: 课程介绍（为什么要用贝叶斯/PyMC3，展示一个回归分析例子，课程安排）
 
 ### I Basics：
-2：贝叶斯公式
+2: 贝叶斯公式
 * 单一事件的贝叶斯模型(先验、似然、分母和后验)
 * 随机变量的贝叶斯模型(先验、似然、分母和后验)
 
-3：建立一个完成的贝叶斯模型：Beta-Binomial model
+3: 建立一个完成的贝叶斯模型：Beta-Binomial model
 * Beta先验
 * Binomial与似然
 * Beta-Binomial model
 
-4～6：Likelihood, Prior, Denominator, Posterior (PPC)[Student’s Guide, Part II]
+4: 贝叶斯模型的特点：数据-先验与动态更新
+* 先验与数据对后验的影响
+* 数据顺序不影响后验
 
-### II 现代贝叶斯统计的内在工作机制（sampler）
-7: MCMC
+5: 经典的贝叶斯模型：Conjugate families
+* Gamma-Poisson
+* Normal-Normal
+   
+～6：Likelihood, Prior, Denominator, Posterior (PPC)[Student’s Guide, Part II]
 
-### III Bayesian Workflow
-8: LM + PyMC3
+### II 近似后验估计
+6: 近似后验的方法
+* 网格法
+* MCMC
 
-9: 诊断
+7: 深入一种MCMC算法
+* M-H 算法
 
-10.比较
+8: 基于后验的推断
+* 后验估计
+* 假设检验
+* 后验预没
 
-11. 推断
+### III Bayesian回归模型
+9: 简单的Bayesian线性回归模型
+* 建立模型
+* 调整先验
+* 近似后验
+* 基于近似后验的推断
+* 序列分析
 
-### IV Applications
+10: 对回归模型的评估
+* 评估模型的标准
+* 对简单线性模型的估计
+  
+11: 扩散线性模型
+* 多自变量的线性回归
 
-12 GLM & more LM
+12: GLM: Possion & Negative Binomial Regression
 
-13: 层级模型 LMM （RT/调查数据）
+13: GLM: Logistic Regression
 
-14: GLMM (信号检验论)
+14: GLM: Naive Bayes Classification
 
-15: 扩展（泛讲）
-
+15: Hierachical Bayesian Model
 
 中间：15 ～ 16次课（国庆节可能会放掉一次）
 
