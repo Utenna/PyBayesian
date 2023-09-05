@@ -43,8 +43,6 @@
 5: 经典的贝叶斯模型：Conjugate families
 * Gamma-Poisson
 * Normal-Normal
-   
-～6：Likelihood, Prior, Denominator, Posterior (PPC)[Student’s Guide, Part II]
 
 ### II 近似后验估计
 6: 近似后验的方法
