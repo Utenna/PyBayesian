@@ -53,3 +53,6 @@ _build
 
 # custom grocery
 panNote.md
+
+.sync.ffs_db
+教学大纲及相关内容/
