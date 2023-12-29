@@ -19,19 +19,19 @@ Email: hcp4715@hotmail.com
 
 |序号|秋季内容|
 | :--: | :--: |
-|  1  |  课程介绍 |
-|    2  | 贝叶斯与频率主义的对比 |
-|    3  | 贝叶斯法则  |
-|    4  |  似然 |
-|    5  | 先验 |
-|    6  | 分母&后验 |
-|    7  | MCMC |
-|    8  | 线性模型 |
-|    9  | 模型诊断 |
-|    10  |  模型比较  |
-|    11  |    模型推断 (模型比较2)    |
-|    12  | GLM & more LM (模型比较2) |
-|    13  |   层级模型LMM   |
-|    14  | GLMM |
-|    15  |    拓展示例    |
-|    16  | 学术报告 |
+|    1   |  课程介绍 |
+|    2   | Bayes' Rule |
+|    3   | The Beta-Binomial Bayesian Model  |
+|    4   | Balance and Sequentiality in Bayesian Analyses  |
+|    5   | Conjugate Families |
+|    6   | Approximating the Posterior |
+|    7   | MCMC under the Hood |
+|    8   | Posterior Inference & Prediction |
+|    9   | A Simple Normal Regression |
+|    10  | Evaluating Regression Models 1 |
+|    11  | Evaluating Regression Models 2  |
+|    12  | GLM: Poisson & Negative Binomial Regression |
+|    13  | GLM: Logistic Regression   |
+|    14  | Hierarchical Models  1   |
+|    15  | Hierarchical Models  2   |
+|    16  | Bayesian Structural Equation Model (报告人: 中山大学潘俊豪教授) |

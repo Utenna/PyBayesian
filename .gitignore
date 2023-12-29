@@ -54,3 +54,11 @@ _build
 # custom grocery
 作业
 other
+
+*.sync.ffs_db
+
+panNote.md
+
+2023/教案/
+
+教学大纲*/
