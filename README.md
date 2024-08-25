@@ -1,12 +1,12 @@
-本仓库是南京师范大学心理学院胡传鹏教授在2023年秋季学期中《高级心理统计》中的课件及相关内容.
+本仓库是南京师范大学心理学院胡传鹏教授在2024年秋季学期中《高级心理统计》中的课件及相关内容.
 
-本仓库内容由胡传鹏、潘晚坷、林也三人共同完成，基于本课程[2022年学期课件](./Archive/2022/README.md)。
+本仓库内容由胡传鹏、潘晚坷、朱珊珊三人共同完成，基于本课程[2023年学期课件](./Archive/2023/README.md)。
 
 我们鼓励重复使用本仓库中的内容，但需遵守本仓库的版本协议。使用前请联系胡传鹏教授，邮箱：hcp4715@hotmail.com
 
 This is a repo for teaching Bayesian analysis.
 
-Author: Prof. Dr. HU Chuan-Peng; PAN, Wanke; Lin Ye. 
+Author: Prof. Dr. HU Chuan-Peng; PAN, Wanke; Zhu Shanshan. 
 
 Affiliation: School of Psychology, Nanjing Normal University, Nanjing, China
 
@@ -30,8 +30,8 @@ Email: hcp4715@hotmail.com
 |    9   | A Simple Normal Regression |
 |    10  | Evaluating Regression Models 1 |
 |    11  | Evaluating Regression Models 2  |
-|    12  | GLM: Poisson & Negative Binomial Regression |
+|    12  | GLM: Bayes factors |
 |    13  | GLM: Logistic Regression   |
-|    14  | Hierarchical Models  1   |
-|    15  | Hierarchical Models  2   |
-|    16  | Bayesian Structural Equation Model (报告人: 中山大学潘俊豪教授) |
+|    14  | Hierarchical Models 1   |
+|    15  | Hierarchical Models 2  |
+|    16  | 特邀专家报告 |
