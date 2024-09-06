@@ -35,3 +35,23 @@ Email: hcp4715@hotmail.com
 |    14  | Hierarchical Models 1   |
 |    15  | Hierarchical Models 2  |
 |    16  | 特邀专家报告 |
+
+## 文件夹结构
+
+BAYESIAN-ANALYSIS-NNUPSY/
+│
+├── Archive/                         # 归档文件
+│   ├── 2022/                        # 2022年课件及相关数据
+│   └── 2023/                        # 2023年课件及相关数据
+│
+├── data/                            # 数据文件
+│   ├── flanker_1.csv                # Flanker任务数据
+│   └── SMS_Well_being.csv           # SMS心理幸福感数据
+│
+├── .gitignore                       # Git忽略文件
+├── dockerfile                       # Docker配置文件
+├── Lecture1.ipynb                   # 2024年第一讲课件
+├── LICENSE                          # 许可证文件
+├── meme.jpg                         # （梗图）
+├── README.md                        # 本仓库说明文件
+└── Syllabus_CN.md                   # 课程大纲 (中文)
