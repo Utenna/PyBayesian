@@ -1,0 +1,11 @@
+arviz==0.17.1
+graphviz==0.20.1
+matplotlib==3.7.2
+numpy==2.1.1
+pandas==2.0.3
+pingouin==0.5.4
+pymc==5.16.2
+pytensor==2.25.4
+scipy==1.14.1
+seaborn==0.13.2
+xarray==2023.6.0
